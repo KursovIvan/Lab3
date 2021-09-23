@@ -7,6 +7,6 @@
 [Lab3.cpp](https://github.com/KursovIvan/Lab3/blob/main/Lab3/Lab3/Lab3.cpp)
 Запустить программу можно файлом
 [Lab3.exe](https://github.com/KursovIvan/Lab3/blob/main/Lab3/Debug/Lab3.exe)
-# Скриншот консоли
+# Скриншоты консоли
 ![Скриншот](https://github.com/KursovIvan/Lab3/blob/main/Screenshots/Test01.jpg)
 ![Скриншот](https://github.com/KursovIvan/Lab3/blob/main/Screenshots/Test02.jpg)
